@@ -25,7 +25,7 @@ export default function Orders() {
                         </View>
                     </View>
                 </View>
-                <Text style={styles.orderText}>Tomato Pasta - $12.35</Text>
+                <Text style={styles.orderText}>Tomato Pasta - ₹120.35</Text>
                 <Text style={styles.orderDiscription}>Italian pasta with tomatoes, provencal</Text>
                 <Text style={styles.orderDiscription}>herbs and basil</Text>
                 <View style={styles.caloriesContainer}>
